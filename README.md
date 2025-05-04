@@ -1,4 +1,4 @@
-# TodoAPP
+# Todo
 
 Este projeto é uma implementação de uma aplicação **Todo List**, desenvolvida como parte das aulas da disciplina **Desenvolvimento Web 2**. A aplicação foi construída utilizando o framework **React (v19)**.
 
