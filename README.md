@@ -13,9 +13,8 @@ Este projeto é uma implementação de uma aplicação **Todo List**, desenvolvi
 ---
 
 ## 📦 Como configurar o projeto
-
-Siga os passos abaixo para rodar o projeto localmente:
-
-1. **Clone este repositório** (se ainda não fez isso):
-   ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+- Ir para o diretório da aplicação
+- Instalar as dependências através do comando:
+- npm install
+- Executar o projeto em modo de desenvolvimento:
+- npm run dev
