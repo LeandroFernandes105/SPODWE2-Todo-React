@@ -3,6 +3,7 @@ const TodoItem = ({ todo, toggleTodo }) => {
     toggleTodo(todo.id);
   };
 
+  
   return (
     <li style={{ textDecoration: todo.completed ? "line-through" : "none" }}>
       {todo.text}
